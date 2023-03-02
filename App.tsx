@@ -62,7 +62,7 @@ export default function App() {
 					/>
 					<TextInput
 						style={styles.input}
-						placeholder="Informe o sua Senha"
+						placeholder="Informe sua senha"
 						placeholderTextColor="#fff"
 						textAlign="center"
 						secureTextEntry={true}
