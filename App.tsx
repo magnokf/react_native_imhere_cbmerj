@@ -54,7 +54,7 @@ export default function App() {
 
 					<TextInput
 						style={styles.input}
-						placeholder="Informe o seu RG"
+						placeholder="Informe seu RG"
 						placeholderTextColor="#fff"
 						textAlign="center"
 						keyboardType="numeric"
@@ -62,7 +62,7 @@ export default function App() {
 					/>
 					<TextInput
 						style={styles.input}
-						placeholder="Informe sua senha"
+						placeholder="Senha CBMERJ"
 						placeholderTextColor="#fff"
 						textAlign="center"
 						secureTextEntry={true}
